@@ -1,0 +1,162 @@
+# Full Slide-by-Slide Text Extraction for the Lee AnCheng Presentations
+
+This document compiles the complete, slide-by-slide textual content for both presentations generated for the Lee AnCheng Curating Platform and Exhibition.
+
+---
+
+## PRESENTATION 1: LEE AN-CHENG LEGACY PLATFORM
+**Focus:** The Artistic Life, Philosophy, and Creative Journey of Lee An-cheng (1959–2015)
+**Design Aesthetic:** Classic calligraphy, visual, clean, and poetic.
+
+### Slide 1: Cover - In Harmony with Light and Dust
+*   **Slide Title:** In Harmony with Light and Dust: The Art of Lee An-cheng
+*   **Subtitle:** A Subtle Brilliance and Independent Path in Contemporary Ink Painting
+*   **Visual Suggestion:** A clean, minimalist layout featuring a high-contrast monochrome ink brush stroke representing a tree trunk with a single vibrant red artist seal.
+*   **Body Content:**
+    *   *The Philosophy:* "In harmony with light and dust" (和光同塵), drawn from the Lao Te Ching, represents keeping one's inner brilliance restrained within the everyday world, emphasizing an internal glow without boasting.
+    *   *Artistic Temperament:* Highlights Lee An-cheng’s unique role in Taiwanese contemporary ink painting—neither relying on orthodox academic ink traditions nor chasing passing trends.
+
+### Slide 2: Roots and Early Beginnings (1959–1979)
+*   **Slide Title:** Roots, Family, and Formative Years
+*   **Visual Suggestion:** Minimalist text block contrasted with an image of a textured, organic landscape.
+*   **Body Content:**
+    *   *Origin:* Born in Citong Township, Yunlin County (1959) into a farming family closely tied to the land and nature.
+    *   *Early Influences:* Deeply influenced by his father, who valued the beauty of plants, and his mother's family, who were immersed in literary and artistic traditions.
+    *   *Mentorship:* Studied under the calligrapher and painter Jar Song-jen (1926–) while attending Huwei Senior High School, revealing his creative potential early on.
+    *   *Brotherly Bond:* Pursued painting alongside his older brother, Li Mao-cheng, whose artistic practice had a lasting impact on him.
+
+### Slide 3: Keelung Period & Material Breakthrough (1979–1980s)
+*   **Slide Title:** The Keelung Period: Fluidity & Structural Emergence
+*   **Visual Suggestion:** Airy, fluid image of soft ink bleeding on Xuan paper.
+*   **Body Content:**
+    *   *Relocation:* Moved to Keelung in 1979 to live with his older brother after graduation.
+    *   *Single-Layer Xuan Paper:* Primarily used single-layered Xuan paper, characterized by clear ink tones and abundant moisture, giving the images a fluid, airy quality.
+    *   *Structural Shift:* Moved away from traditional "cun" (texture) strokes, favoring structures that form naturally from ink blending and water pooling.
+
+### Slide 4: Breakthrough and Solo Success (1987)
+*   **Slide Title:** A Rising Legend in Taiwan's Art Scene
+*   **Visual Suggestion:** Highly focused text block with a stark black-and-white landscape silhouette.
+*   **Body Content:**
+    *   *First Solo Exhibition:* Held in 1987 at Taipei's Spring Gallery.
+    *   *Critical Reception:* His vigorous, distinctive ink style drew widespread attention, earning him a reputation as "a legend in Taiwan's art scene" and cementing his determination to remain a professional artist.
+    *   *Eschewing Symbolism:* Rather than following traditional landscape (shanshui) symbolism, he constructed his compositions through overall "qiyun" (rhythmic vitality) and physical brush movement.
+
+### Slide 5: Artistic Philosophy: Shanshui as Space and Qi
+*   **Slide Title:** The Interaction of Water, Ink, and Paper
+*   **Visual Suggestion:** Pure negative space balanced with deep, saturated black horizontal ink layers.
+*   **Body Content:**
+    *   *Evolving Space:* Focus is not on depicting natural scenery, but on how water, ink, and paper interact to create a perpetually evolving space.
+    *   *Tonal Mountains & Temporal Water:* Mountains are represented by layers of ink tones rather than physical forms; water signifies the passage of time rather than a simple spatial background.
+    *   *The Role of Blankness:* Negative space (void) is a vital, active force in the flow of "qi" (breath or air) and visual rhythm.
+
+### Slide 6: Material Experimentation: Korean Hanji Paper (Post-2003)
+*   **Slide Title:** Korean Hanji Paper and Physical Textures
+*   **Visual Suggestion:** High-detail close-up of rough paper fibers and sweeping, cracked brushstrokes.
+*   **Body Content:**
+    *   *A New Medium:* Around 2003, Lee introduced handmade Korean Hanji paper into his practice.
+    *   *Fascinating Resilience:* The resilience of Hanji's raw fibers allowed for heavier and quicker brushstrokes.
+    *   *Dry Brush Techniques:* Characteristics such as "flying white" (feibai), drag marks, and paper cracks became prominent.
+    *   *From Landscapes to Rhythms:* Shifted his works from recognizable landscapes into abstract forms resembling atmospheric spaces and pure rhythmic movements.
+
+### Slide 7: Transitional Eras: 1990s & 2000s Peak
+*   **Slide Title:** The Evolution of Mass and Tension
+*   **Visual Suggestion:** Stark, high-contrast monochrome landscape with a heavy, brooding upper celestial mass.
+*   **Body Content:**
+    *   *1990s Transition:* Broader, gestural brushstrokes and heavy silhouetted masses. Tonal contrasts between black and white increased, and mountain forms took on a psychological sense of compression.
+    *   *2000s Peak Fusion:* Around 2000, his work grew weightier and denser. Large-scale works featured overlapping ink layers that built up visual landscapes evoking intense topographic and planetary associations. Ink transformed from a tonal element to a tangible substance with physical weight.
+
+### Slide 8: The Later Years: Kaohsiung and Southern Light (Post-2008)
+*   **Slide Title:** Relocation, Southern Light, and Self-Renewal
+*   **Visual Suggestion:** Atmospheric landscape showing a penetrating sense of light within dense, heavy ink tones.
+*   **Body Content:**
+    *   *Kaohsiung Period:* Relocated to Kaohsiung in southern Taiwan, embracing a simpler, reserved life close to nature and engaging in everyday labor work.
+    *   *The Southern Light:* The intensely bright light and varied southern terrain led to new artistic developments. Despite dense, heavy ink tones, a penetrating sense of light remained, creating a spatial atmosphere distinct from his northern period.
+    *   *The Cycle of Destruction and Renewal:* Faced with creative struggles, he destroyed his own paintings multiple times (including in his youth and a significant portion in 2013), showing a lifelong commitment to self-purification and artistic self-renewal.
+
+### Slide 9: Artistic Independence and Global Footprint
+*   **Slide Title:** An Independent Spirit on the Global Stage
+*   **Visual Suggestion:** Timeline or map illustrating international exhibitions (France, Russia, USA, Japan, Estonia).
+*   **Body Content:**
+    *   *Institutional Independence:* Remained completely independent of academic institutions and the commercial art market, giving him absolute experimental freedom.
+    *   *Global Exhibitions:* His work traveled internationally:
+        *   *1987:* International Ink Art Exhibition, Ueno Royal Museum, Tokyo, Japan.
+        *   *1988-1991:* Chinese Contemporary Art Exhibition Tour, USA.
+        *   *1993:* Contemporary Chinese Ink and Color Painting, Russian Ethnography Museum, St. Petersburg.
+        *   *1999:* Ink Paintings of Taiwan Scenes Tour in Europe, Estonian National Museum.
+        *   *2001:* Today's Masters and New Talents, Paris, France.
+    *   *Public Collections:* Formally collected by the National Museum of History and the Taipei Fine Arts Museum.
+
+### Slide 10: Preserving the Legacy: The Digital Curating Platform
+*   **Slide Title:** Honoring the Artist: The digital Platform Commission
+*   **Visual Suggestion:** High-resolution digital gallery mockup displaying Lee An-cheng's monochrome landscapes.
+*   **Body Content:**
+    *   *The Purpose:* Because his physical works are widely dispersed among family, friends, and private collectors, this platform will securely centralize his catalog.
+    *   *Connecting to the World:* Combines secure archival technology with a public multilingual portal to make Lee An-cheng's masterpieces accessible to global curators and institutions, bringing his silent ink to the 21st-century global stage.
+
+---
+
+## PRESENTATION 2: THE LEE ANCHENG CURATING PLATFORM AND GLOBAL EXHIBITION BLUEPRINT
+**Focus:** Technical Specifications, Strategic Management, and the Phased 2026 Development Roadmap
+**Design Aesthetic:** Professional, structured, visionary, and clean.
+
+### Slide 1: Cover - Connecting Traditional Ink Art to the Global Stage
+*   **Slide Title:** Preserving a Legacy: The Lee AnCheng Curating Platform & Exhibition Website
+*   **Subtitle:** Connecting Traditional Ink Art to the Global Stage by December 2026
+*   **Visual Suggestion:** Modern corporate-style slide with high-contrast text and a subtle digital network overlay on an abstract ink wash background.
+*   **Body Content:**
+    *   *The Mission:* Cataloging the dispersed physical masterpieces of Lee An-cheng and presenting them to international curators.
+    *   *The Target:* A full digital launch by December 2026 to facilitate global exhibitions, specifically targeting European spaces like France.
+
+### Slide 2: The Core Challenge & The Solution
+*   **Slide Title:** Bridging Dispersed Collections through Digital Integration
+*   **Visual Suggestion:** A split slide: Left side showing a network of "Dispersed Physical Collections (Relatives/Friends)", Right side showing "Secure Centralized Database & Multilingual Public Presentation Portal".
+*   **Body Content:**
+    *   *The Challenge:* Physical works are widely dispersed among relatives, friends, and private owners, making global curation, transportation coordination, and shipping logistically complex.
+    *   *The Solution:* A secure, centralized administration database that feeds a public-facing, highly polished, bilingual (English and Traditional Chinese) presentation website.
+
+### Slide 3: Platform Features: Backend & Curation Tools
+*   **Slide Title:** Robust Administration, Metadata, and Transit Security
+*   **Visual Suggestion:** Clean icon grid or a structural database schema layout.
+*   **Body Content:**
+    *   *Bilingual Admin Portal:* Full localized interfaces in both English and Traditional Chinese.
+    *   *Role-Based Access Control:* Multi-user access supporting different permissions for Administrators and Editors.
+    *   *Exhaustive Technical Metadata:* Fields capturing conservation status, paper types, frame dimensions, physical condition reports, and shipping requirements.
+    *   *Private Ownership & Transit Tracking:* Secure, private logging of artwork locations, current custodians, contact details, and status updates during international transit or external gallery loans.
+
+### Slide 4: Curatorial Suggestion Engine
+*   **Slide Title:** Dynamically Generating Tailored Global Proposals
+*   **Visual Suggestion:** Flowchart showing metadata filters (Year, Technique, Size, Influence) outputting a "Custom Exhibition Narrative Proposal".
+*   **Body Content:**
+    *   *The Goal:* Instantly generate new curatorial narratives and custom proposals tailored to fit specific international gallery spaces.
+    *   *Dynamic Filtering Parameters:*
+        *   *Creation Year:* Filter by periods (e.g., early 1979 works, Keelung period, 1980s-1990s transitions, late 2000s abstract series).
+        *   *Artistic Technique:* Filter by fluid ink/water blending, flat/calligraphic brushes, or Korean Hanji textures.
+        *   *Influence & Size:* Adapt to physical room layouts and thematic criteria for global venues (such as French galleries).
+
+### Slide 5: Public Presentation Website & Showcase Backend
+*   **Slide Title:** Immersive Public Experiences and Editor Controls
+*   **Visual Suggestion:** Mockup of an interactive timeline slider and a high-resolution masonry image grid.
+*   **Body Content:**
+    *   *Showcase Backend:* Editor portal allowing administrators to select which paintings are featured on the public home page, customize public titles, and easily toggle work visibility.
+    *   *High-Resolution Galleries:* Fully responsive public galleries showcasing the raw, textured beauty of the paintings.
+    *   *Interactive Timeline:* An immersive digital timeline tracing Lee An-cheng's life, physical movements (Yunlin, Keelung, Kaohsiung), and artistic periods.
+    *   *Curated Artist Biography:* Multilingual, professionally translated biography tailored for global curators.
+
+### Slide 6: Step-by-Step Development Roadmap
+*   **Slide Title:** Phased Execution Leading to December 2026 Launch
+*   **Visual Suggestion:** Horizontal timeline roadmap chevron chart spanning from September to December.
+*   **Body Content:**
+    *   *Phase 1 (September):* Core database schema design, secure hosting environment setup, and bulk image import (52 paintings from 1979–2000s).
+    *   *Phase 2 (October):* Backend admin portal development, role configuration, and secure private ownership/transit tracking implementation.
+    *   *Phase 3 (November):* Public website frontend design, responsive high-resolution galleries, interactive timeline, and showcase selection backend.
+    *   *Phase 4 (Late November to December):* 3-to-4-week content review buffer to finalize curated art texts, complete end-to-end user testing, and execute the official platform launch.
+
+### Slide 7: Resource Allocation & Action Plan
+*   **Slide Title:** Immediate Next Steps and Stakeholder Action Plan
+*   **Visual Suggestion:** Structured table with clear tasks, assignees, and deadlines.
+*   **Body Content:**
+    *   *Current Resource Status:* Web development team is fully assembled and ready. Art curation text drafts are underway and ready for final reviews.
+    *   *Immediate Next Steps for Family & Stakeholders:*
+        1.  *High-Resolution Photography:* Finalize high-resolution scans and photographs of all physical works.
+        2.  *Ownership Logs:* Gather existing custody records and contact details from relatives and friends.
+        3.  *Commence Phase 1:* Initiate backend database modeling and host environment provisioning.
