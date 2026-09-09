@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lee An-cheng (李安成) - Curatorial Platform & Proposals</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" type="image/jpeg" href="logo_stamp.jpeg">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="#" class="nav-brand">
+        <img src="logo_stamp.jpeg" alt="Lee AnCheng Stamp" class="nav-brand-img">
+        <div>
+          <div class="nav-brand-title">李安成 <span style="font-size:0.9rem; font-weight:500; color:var(--color-gold-dark);">Lee An-cheng</span></div>
+          <div class="nav-brand-sub" data-i18n="nav_sub">Curatorial Platform & Proposals</div>
+        </div>
+      </a>
+
+      <ul class="nav-links">
+        <li><a href="#proposals" class="nav-link" data-i18n="nav_proposals">3 Proposals</a></li>
+        <li><a href="#matrix" class="nav-link" data-i18n="nav_matrix">Comparison Matrix</a></li>
+        <li><a href="#demos" class="nav-link" data-i18n="nav_demos">Interactive Demos</a></li>
+        <li><a href="#collection" class="nav-link" data-i18n="nav_collection">52 Masterworks Archive</a></li>
+        <li><a href="#decision" class="nav-link" data-i18n="nav_decision">Decision Guide</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <button id="lang-toggle-btn" class="lang-btn">
+          🌐 繁體中文
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-container">
+      <div class="hero-meta-strip">
+        <span class="seal-badge">
+          <img src="logo_stamp.jpeg" alt="Seal" class="seal-stamp-img">
+          1959–2015 Modern Ink Master
+        </span>
+        <span class="seal-badge" style="border-color:var(--color-gold); color:var(--color-gold-dark); background:rgba(197,160,89,0.1);">
+          Estate & Family Commission
+        </span>
+      </div>
+
+      <h1 class="hero-title">
+        <span data-i18n="hero_title">Curating Modern Ink Master Lee An-cheng</span>
+        <span class="chinese" data-i18n="hero_chinese">李安成 典藏策展平台規劃</span>
+      </h1>
+
+      <p class="hero-subtitle" data-i18n="hero_subtitle">
+        Three logical architectural proposals for cataloging, preserving, and curating 52 modern ink masterpieces held across 3 estate custodians for international museum exhibitions in France, Europe, and worldwide.
+      </p>
+
+      <!-- Key Project Metrics -->
+      <div class="hero-metrics-grid">
+        <div class="metric-card">
+          <div class="metric-num red" data-i18n="metric_artworks_num">52</div>
+          <div class="metric-label" data-i18n="metric_artworks_label">Master Artworks</div>
+          <div class="metric-desc" data-i18n="metric_artworks_desc">1979–2000s ink and wash on Xuan paper spanning early to late monumental periods.</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-num gold" data-i18n="metric_custodians_num">3</div>
+          <div class="metric-label" data-i18n="metric_custodians_label">Estate Custodians</div>
+          <div class="metric-desc" data-i18n="metric_custodians_desc">Private physical collection distributed among 3 family owners & relatives.</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-num" data-i18n="metric_standards_num">Trilingual</div>
+          <div class="metric-label" data-i18n="metric_standards_label">Taiwan & Global Standards</div>
+          <div class="metric-desc" data-i18n="metric_standards_desc">Fully bilingual (ZH/EN) with export to France Joconde, USA CDWA, and Europe LIDO.</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-num" data-i18n="metric_roadmap_num">3 Tiers</div>
+          <div class="metric-label" data-i18n="metric_roadmap_label">Modular Architecture</div>
+          <div class="metric-desc" data-i18n="metric_roadmap_desc">From a sleek digital monograph to an institutional museum collection & 3D gallery suite.</div>
+        </div>
+      </div>
+
+      <!-- Proposals Quick Navigation -->
+      <div class="proposal-nav-bar">
+        <button class="p-tab-btn active" data-target="all" data-i18n="p_tab_all">View All 3 Proposals</button>
+        <button class="p-tab-btn" data-target="p1" data-i18n="p_tab_1">1. Presentation Site</button>
+        <button class="p-tab-btn" data-target="p2" data-i18n="p_tab_2">2. Dynamic CMS</button>
+        <button class="p-tab-btn" data-target="p3" data-i18n="p_tab_3">3. Full Museum Platform</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 3 Proposals Deep Dive Section -->
+  <section id="proposals" class="section">
+    <div class="section-header">
+      <span class="section-tag" data-i18n="hero_tag">Architectural Options</span>
+      <h2 class="section-title">The Three Architectural Proposals</h2>
+      <p class="section-desc">Designed to address different levels of curatorial ambition, operational control, and exhibition preparedness.</p>
+    </div>
+
+    <div class="proposals-grid">
+      
+      <!-- Proposal 1 -->
+      <div class="proposal-card" data-proposal="p1">
+        <div class="p-card-header">
+          <span class="p-badge-num" data-i18n="p1_badge">Proposal 1</span>
+          <h3 class="p-card-title" data-i18n="p1_title">Digital Monograph & Aesthetic Showcase</h3>
+          <p class="p-card-summary" data-i18n="p1_summary">A pure, high-performance visual exhibition website focused on the aesthetic legacy of Lee An-cheng. Zero backoffice, no database, and $0/mo hosting maintenance.</p>
+          <div class="p-meta-badges">
+            <span class="p-badge">Static SSG</span>
+            <span class="p-badge">Zero Backoffice</span>
+            <span class="p-badge">Bilingual ZH/EN</span>
+            <span class="p-badge">$0/mo Hosting</span>
+          </div>
+        </div>
+
+        <ul class="p-feature-list">
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Atmospheric Scroll Theme:</strong> Light-to-dark illumination transition tied to scroll depth (James Turrell inspired).</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Horizontal Handscroll Gallery:</strong> Gesture-driven unrolling simulation for horizontal works (*手卷 / 橫披*).</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Curated Narrative Rooms:</strong> Static viewing rooms combining painting views, archival photos, and curator essays (David Zwirner style).</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>High-Res Deep Zoom:</strong> Client-side zoom on Xuan paper fibers, ink bleeding, and brushstrokes.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>1959–2015 Chronology:</strong> Interactive biographical timeline & institutional collections roster.</span>
+          </li>
+          <li class="p-feature-item excluded">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            <span>No Backoffice CMS (Layout updates require code edits)</span>
+          </li>
+          <li class="p-feature-item excluded">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            <span>No Custodian CRM or Location Tracking</span>
+          </li>
+        </ul>
+
+        <div class="p-card-footer">
+          <div class="p-cost-box">
+            <div class="p-cost-label" data-i18n="p1_timeline">Timeline: 3–4 Weeks</div>
+            <div class="p-cost-val" data-i18n="p1_cost">Hosting: $0 / mo</div>
+          </div>
+          <a href="#matrix" class="btn btn-outline btn-sm">Compare Specs</a>
+        </div>
+      </div>
+
+      <!-- Proposal 2 -->
+      <div class="proposal-card" data-proposal="p2">
+        <div class="p-card-header">
+          <span class="p-badge-num" data-i18n="p2_badge">Proposal 2</span>
+          <h3 class="p-card-title" data-i18n="p2_title">Dynamic Exhibition Portal & Showcase CMS</h3>
+          <p class="p-card-summary" data-i18n="p2_summary">An interactive public frontend backed by a bilingual Admin Portal (CMS) that enables family editors to reorder featured works, curate digital rooms, and publish essays.</p>
+          <div class="p-meta-badges">
+            <span class="p-badge">Dynamic Frontend</span>
+            <span class="p-badge">Showcase Admin CMS</span>
+            <span class="p-badge">IIIF Deep Zoom</span>
+            <span class="p-badge">Editorial Engine</span>
+          </div>
+        </div>
+
+        <ul class="p-feature-list">
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>All Features from Proposal 1</strong> (Atmospheric scroll, handscroll gallery, deep zoom).</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Showcase Layout Builder:</strong> Reorder featured paintings, toggle public visibility, and customize exhibition titles.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Multi-Axis Archive Filter:</strong> Dynamic search across year slider, ink medium, mounting, and period (Olafur Eliasson style).</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Editorial & News CMS:</strong> Publish bilingual essays, press releases, exhibition news, and press kit downloads.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>WebGL Ink-Bleed Transitions:</strong> Fluid ripple effects on hover and page navigation (TeamLab inspired).</span>
+          </li>
+          <li class="p-feature-item excluded">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            <span>No 3-Custodian Physical Logistics Tracker</span>
+          </li>
+          <li class="p-feature-item excluded">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            <span>No Automated France/USA Museum Export Crosswalks</span>
+          </li>
+        </ul>
+
+        <div class="p-card-footer">
+          <div class="p-cost-box">
+            <div class="p-cost-label" data-i18n="p2_timeline">Timeline: 8–10 Weeks</div>
+            <div class="p-cost-val" data-i18n="p2_cost">Hosting: ~$30–$60 / mo</div>
+          </div>
+          <a href="#matrix" class="btn btn-outline btn-sm">Compare Specs</a>
+        </div>
+      </div>
+
+      <!-- Proposal 3 -->
+      <div class="proposal-card recommended" data-proposal="p3">
+        <span class="rec-ribbon">Institutional Benchmark</span>
+        <div class="p-card-header">
+          <span class="p-badge-num" data-i18n="p3_badge">Proposal 3</span>
+          <h3 class="p-card-title" data-i18n="p3_title">Full Museum-Grade Curating & Art CRM Suite</h3>
+          <p class="p-card-summary" data-i18n="p3_summary">The ultimate institutional solution: 52-Piece Inventory TMS, Epigraphy & Seal Matrix, 3-Custodian Logistics CRM, Automated France/USA/EU Export Engine, and 3D Virtual Gallery.</p>
+          <div class="p-meta-badges">
+            <span class="p-badge" style="background:#fee2e2; color:#991b1b;">Museum TMS</span>
+            <span class="p-badge">3-Custodian CRM</span>
+            <span class="p-badge">Export Engine (Joconde/CDWA)</span>
+            <span class="p-badge">3D Virtual Gallery</span>
+            <span class="p-badge">Digital COA</span>
+          </div>
+        </div>
+
+        <ul class="p-feature-list">
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>All Features from Proposals 1 & 2</strong> (Complete frontend showcase & editorial CMS).</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>52-Piece Inventory TMS & Epigraphy:</strong> Dual calendar (Gregorian/Minguo/Lunar), Seal Matrix (*朱文/白文*) bounding box tool, and inscription transcriptions.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>3-Custodian Private Logistics CRM:</strong> Track exact custody across the 3 family owners, location status, packing lists, and loan agreements for shipments abroad.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>Automated International Crosswalk Engine:</strong> 1-click export to <strong>France (POP Base Joconde)</strong>, <strong>USA (CDWA/VRA Core)</strong>, and <strong>Europe (LIDO 1.1)</strong>.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>3D Virtual Gallery & Spatial Curator:</strong> Real-scale millimeter wall placement, lighting studio (3000K–5000K), and spatial audio walkthroughs.</span>
+          </li>
+          <li class="p-feature-item">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>
+            <span><strong>VIP Viewing Rooms & Digital COA:</strong> Tokenized collector links, condition logs, and verifiable digital certificates of authenticity.</span>
+          </li>
+        </ul>
+
+        <div class="p-card-footer">
+          <div class="p-cost-box">
+            <div class="p-cost-label" data-i18n="p3_timeline">Timeline: 16–20 Weeks</div>
+            <div class="p-cost-val" data-i18n="p3_cost">Hosting: ~$120–$250 / mo</div>
+          </div>
+          <a href="#matrix" class="btn btn-seal btn-sm">Explore Details</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Side-by-Side Comparison Matrix -->
+  <section id="matrix" class="section" style="background:var(--color-parchment-subtle); border-top:1px solid var(--color-parchment-border); border-bottom:1px solid var(--color-parchment-border);">
+    <div class="section-header">
+      <span class="section-tag" data-i18n="matrix_tag">Comprehensive Evaluation</span>
+      <h2 class="section-title" data-i18n="matrix_title">Side-by-Side Feature Comparison Matrix</h2>
+      <p class="section-desc" data-i18n="matrix_desc">Compare capabilities across user experience, curatorial backend, logistics tracking, and international museum interoperability.</p>
+    </div>
+
+    <div class="table-container">
+      <table class="comp-table">
+        <thead>
+          <tr>
+            <th>Module & Capability</th>
+            <th class="col-p1">Proposal 1<br><small>Static Monograph</small></th>
+            <th class="col-p2">Proposal 2<br><small>Dynamic CMS</small></th>
+            <th class="col-p3">Proposal 3<br><small>Full Museum Suite</small></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="category-row"><td colspan="4">1. Language & Accessibility</td></tr>
+          <tr>
+            <td>Bilingual Public Website (繁體中文 / English)</td>
+            <td class="col-p1"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Yes (Trilingual Ready)</span></td>
+          </tr>
+          <tr>
+            <td>Bilingual Admin Backoffice (繁體中文 / English)</td>
+            <td class="col-p1"><span class="cross-icon">— None</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Full Bilingual</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Full Bilingual</span></td>
+          </tr>
+
+          <tr class="category-row"><td colspan="4">2. Visual Aesthetics & UI/UX (Lee AnCheng Benchmarks)</td></tr>
+          <tr>
+            <td>Atmospheric Light/Dark Scroll Transitions (James Turrell)</td>
+            <td class="col-p1"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Yes</span></td>
+          </tr>
+          <tr>
+            <td>Horizontal Handscroll Unrolling Gallery</td>
+            <td class="col-p1"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Yes</span></td>
+          </tr>
+          <tr>
+            <td>Interactive Deep Zoom (Xuan paper & ink bleed)</td>
+            <td class="col-p1">Client Zoom</td>
+            <td class="col-p2"><span class="check-icon">✓ IIIF Server</span></td>
+            <td class="col-p3"><span class="check-icon">✓ IIIF 3.0 Dual Zoom</span></td>
+          </tr>
+          <tr>
+            <td>Multi-Axis Archive Filter (Era, Style, Mounting)</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Yes</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Yes</span></td>
+          </tr>
+          <tr>
+            <td>Real-Time 3D Navigable Virtual Gallery (Three.js)</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ 60 FPS 3D & WebXR</span></td>
+          </tr>
+
+          <tr class="category-row"><td colspan="4">3. Backoffice & Curatorial Management</td></tr>
+          <tr>
+            <td>Showcase Layout & Artwork Visibility Configurator</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Drag-and-drop</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Advanced Curator</span></td>
+          </tr>
+          <tr>
+            <td>Editorial, Press Releases & Curatorial Essays CMS</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="check-icon">✓ Rich Block Editor</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Rich Block Editor</span></td>
+          </tr>
+          <tr>
+            <td>Epigraphy & Interactive Seal Matrix Tool (印譜)</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Bounding Box Tool</span></td>
+          </tr>
+          <tr>
+            <td>Dual Calendar (Gregorian / Minguo / Lunar Ganzhi)</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Auto Conversion</span></td>
+          </tr>
+
+          <tr class="category-row"><td colspan="4">4. 3-Custodian Physical Logistics & CRM</td></tr>
+          <tr>
+            <td>Private Custodian Directory (3 Family Owners)</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Secure Vault</span></td>
+          </tr>
+          <tr>
+            <td>Physical Location & Storage Box Tracking</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Real-time Tracker</span></td>
+          </tr>
+          <tr>
+            <td>International Loan Manifest & Crate Specs Generator</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ 1-Click Manifest</span></td>
+          </tr>
+
+          <tr class="category-row"><td colspan="4">5. International Museum Export Engine</td></tr>
+          <tr>
+            <td>France Export: POP - Base Joconde (Ministère de la Culture)</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Full Format XML/CSV</span></td>
+          </tr>
+          <tr>
+            <td>USA Export: Getty CDWA / VRA Core / DPLA</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Full XML & AAT</span></td>
+          </tr>
+          <tr>
+            <td>Europe Export: LIDO 1.1 & Europeana EDM</td>
+            <td class="col-p1"><span class="cross-icon">—</span></td>
+            <td class="col-p2"><span class="cross-icon">—</span></td>
+            <td class="col-p3"><span class="check-icon">✓ Fully Compliant</span></td>
+          </tr>
+
+          <tr class="category-row"><td colspan="4">6. Financials & Operational Overhead</td></tr>
+          <tr>
+            <td>Monthly Hosting & Server Maintenance</td>
+            <td class="col-p1"><strong>$0 / mo</strong></td>
+            <td class="col-p2"><strong>~$30 – $60 / mo</strong></td>
+            <td class="col-p3"><strong>~$120 – $250 / mo</strong></td>
+          </tr>
+          <tr>
+            <td>Target Implementation Schedule</td>
+            <td class="col-p1">3–4 Weeks</td>
+            <td class="col-p2">8–10 Weeks</td>
+            <td class="col-p3">16–20 Weeks</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Interactive Live Demos Section -->
+  <section id="demos" class="section">
+    <div class="section-header">
+      <span class="section-tag" data-i18n="demos_tag">Live Interactive Concept Demos</span>
+      <h2 class="section-title" data-i18n="demos_title">Experience the Curatorial Innovations</h2>
+      <p class="section-desc" data-i18n="demos_desc">Explore live interactive simulations inspired by world-class museum standards.</p>
+    </div>
+
+    <div class="demos-wrapper">
+      <div class="demo-tabs">
+        <button class="demo-tab-btn active" data-panel="panel-atmos">1. Atmospheric Scroll Simulator</button>
+        <button class="demo-tab-btn" data-panel="panel-scroll">2. Horizontal Handscroll Unrolling</button>
+        <button class="demo-tab-btn" data-panel="panel-seal">3. Seal Matrix & Deep Zoom</button>
+        <button class="demo-tab-btn" data-panel="panel-xwalk">4. Museum Crosswalk Engine</button>
+      </div>
+
+      <!-- Demo 1: Atmospheric Simulator -->
+      <div id="panel-atmos" class="demo-panel active">
+        <div style="margin-bottom:1.5rem; text-align:center;">
+          <label style="font-weight:700; margin-right:1rem;">Scroll Depth / Era Transition Simulation:</label>
+          <input type="range" id="atmos-slider" min="0" max="100" value="10" style="width:280px; vertical-align:middle;">
+        </div>
+        <div id="atmos-box" class="atmos-box" style="background:#f8f6f0; color:#1a1c20;">
+          <img id="atmos-preview-img" src="paintings/1568196578-3340-1979_新印.jpg" alt="Preview" class="atmos-painting-preview">
+          <h3 id="atmos-era-label" style="margin-bottom:0.5rem;">Early 1979–1985: Airy Luminous Ink (Keelung Period)</h3>
+          <p style="font-size:0.875rem; max-width:550px; opacity:0.85;">As the user scrolls down, the ambient page lighting adjusts organically to echo the density and contrast of the artist's ink wash evolution.</p>
+        </div>
+      </div>
+
+      <!-- Demo 2: Horizontal Handscroll -->
+      <div id="panel-scroll" class="demo-panel">
+        <p style="margin-bottom:1rem; font-size:0.9rem; opacity:0.85;">Scroll or swipe horizontally to simulate unrolling traditional East Asian horizontal formats (*手卷 / 橫披*):</p>
+        <div class="handscroll-container">
+          <div class="handscroll-item"><img src="paintings/1568196554-9991-1980s-1990s.jpg" alt="Artwork"></div>
+          <div class="handscroll-item"><img src="paintings/1568196556-2650-1980-1990s-2.jpg" alt="Artwork"></div>
+          <div class="handscroll-item"><img src="paintings/1568196611-2726-1980s-1990s-1980s-1990s.jpg" alt="Artwork"></div>
+          <div class="handscroll-item"><img src="paintings/1568196613-6811-1980s-1990s.jpg" alt="Artwork"></div>
+          <div class="handscroll-item"><img src="paintings/1568196637-3027-1990s_新印.jpg" alt="Artwork"></div>
+        </div>
+      </div>
+
+      <!-- Demo 3: Seal Inspector -->
+      <div id="panel-seal" class="demo-panel">
+        <div class="seal-inspector-grid">
+          <div class="inspector-stage">
+            <img id="inspector-zoom-img" src="paintings/1568196583-3558-1985_新印.jpg" alt="Artwork" class="inspector-img">
+            <div id="demo-seal-box" class="seal-bounding-box" title="Click to Inspect Seal Annotation"></div>
+          </div>
+          <div class="inspector-meta">
+            <span class="seal-badge" style="margin-bottom:1rem;">Interactive Epigraphy Tool</span>
+            <h4 style="margin-bottom:0.75rem;">Click the pulsing red box on the painting to test seal verification</h4>
+            <div id="seal-annotation-output" style="font-size:0.875rem; line-height:1.6; background:#090a0d; padding:1rem; border-radius:8px; border:1px solid var(--color-ink-border);">
+              Click on the seal bounding box in the painting viewport to inspect metadata.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Demo 4: Crosswalk Tabs -->
+      <div id="panel-xwalk" class="demo-panel">
+        <div style="display:flex; gap:0.5rem; margin-bottom:1rem;">
+          <button class="btn btn-outline btn-sm xwalk-tab-btn active" data-format="france">France: POP Base Joconde</button>
+          <button class="btn btn-outline btn-sm xwalk-tab-btn" data-format="usa">USA: Getty CDWA / VRA</button>
+          <button class="btn btn-outline btn-sm xwalk-tab-btn" data-format="taiwan">Taiwan: TMB 2.0 JSON-LD</button>
+        </div>
+        <div id="xwalk-code-display" class="crosswalk-code-block">&lt;!-- France Ministère de la Culture: Base Joconde Export Sample --&gt;
+&lt;RECORD&gt;
+  &lt;AUTR&gt;LEE An-cheng (李安成, 1959-2015)&lt;/AUTR&gt;
+  &lt;TITR&gt;Rythme de l'encre (墨韻山水)&lt;/TITR&gt;
+  &lt;DENO&gt;Peinture / Rouleau vertical (立軸)&lt;/DENO&gt;
+  &lt;TECH&gt;Encre de Chine sur papier de riz Xuan (水墨宣紙)&lt;/TECH&gt;
+  &lt;DIM&gt;H. 136.5 cm ; L. 68.0 cm (Montage: 210.0 x 80.5 cm)&lt;/DIM&gt;
+  &lt;PERI&gt;4e quart 20e siècle (1985 / 民國74年 / 乙丑年)&lt;/PERI&gt;
+  &lt;INS&gt;Sceau de l'artiste en bas à droite (朱文印)&lt;/INS&gt;
+  &lt;STAT&gt;Propriété privée / Collection successorale&lt;/STAT&gt;
+  &lt;CUSTODIAN_ID&gt;CUST-01 (Taiwan)&lt;/CUSTODIAN_ID&gt;
+&lt;/RECORD&gt;</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 52 Masterworks Collection Explorer -->
+  <section id="collection" class="section">
+    <div class="section-header">
+      <span class="section-tag" data-i18n="gallery_tag">Complete Physical Inventory</span>
+      <h2 class="section-title" data-i18n="gallery_title">52 Masterworks Collection Explorer</h2>
+      <p class="section-desc" data-i18n="gallery_desc">Interactive preview of the 52 physical artworks currently archived across the 3 family custodians.</p>
+    </div>
+
+    <!-- Gallery Controls -->
+    <div class="gallery-controls">
+      <div class="gallery-filters">
+        <button class="filter-btn active" data-filter="all" data-i18n="filter_all">All (52)</button>
+        <button class="filter-btn" data-filter="1970s" data-i18n="filter_1970s">1970s Formative</button>
+        <button class="filter-btn" data-filter="1980s" data-i18n="filter_1980s">1980s Transitions</button>
+        <button class="filter-btn" data-filter="1990s" data-i18n="filter_1990s">1990s Abstraction</button>
+        <button class="filter-btn" data-filter="2000s" data-i18n="filter_2000s">2000s Monumental</button>
+        <button class="filter-btn" data-filter="c1" data-i18n="filter_c1">Custodian 1</button>
+        <button class="filter-btn" data-filter="c2" data-i18n="filter_c2">Custodian 2</button>
+        <button class="filter-btn" data-filter="c3" data-i18n="filter_c3">Custodian 3</button>
+      </div>
+
+      <input type="text" id="gallery-search" placeholder="Search by ID, title, or era..." style="padding:0.45rem 1rem; border-radius:var(--radius-full); border:1px solid var(--color-parchment-border); width:240px; font-size:0.85rem;">
+    </div>
+
+    <!-- Paintings Grid -->
+    <div id="paintings-grid" class="paintings-grid">
+      <!-- Injected via app.js -->
+    </div>
+  </section>
+
+  <!-- Decision Guide / Interactive Helper -->
+  <section id="decision" class="section" style="background:var(--color-parchment-subtle); border-top:1px solid var(--color-parchment-border);">
+    <div class="section-header">
+      <span class="section-tag" data-i18n="nav_decision">Strategic Decision Framework</span>
+      <h2 class="section-title">Which Proposal Fits Your Vision?</h2>
+      <p class="section-desc">Select your primary goal to see the recommended architecture for the estate.</p>
+    </div>
+
+    <div class="decision-card">
+      <div class="quiz-option" data-choice="p1">
+        <h4 style="margin-bottom:0.25rem;">A. "We want a fast, stunning public showcase with zero monthly maintenance costs."</h4>
+        <p style="font-size:0.85rem; color:var(--color-text-secondary);">Ideal for a public tribute and curator portfolio without needing any ongoing database administration.</p>
+      </div>
+
+      <div class="quiz-option" data-choice="p2">
+        <h4 style="margin-bottom:0.25rem;">B. "We want to actively update exhibitions, rearrange featured works, and publish essays ourselves."</h4>
+        <p style="font-size:0.85rem; color:var(--color-text-secondary);">Ideal for family and estate editors who need autonomous control over homepage layout and editorial storytelling.</p>
+      </div>
+
+      <div class="quiz-option" data-choice="p3">
+        <h4 style="margin-bottom:0.25rem;">C. "We need to catalog the 52 physical pieces across 3 custodians, track loans, and export to French/USA museums."</h4>
+        <p style="font-size:0.85rem; color:var(--color-text-secondary);">Ideal for preparing international museum retrospectives, full provenance tracking, 3D virtual spaces, and digital COA.</p>
+      </div>
+
+      <div id="quiz-result" style="display:none; margin-top:1.5rem; padding:1.25rem; background:rgba(192,57,43,0.06); border:1px solid var(--color-seal-red); border-radius:var(--radius-md); font-size:0.95rem; color:var(--color-ink-black);">
+        <!-- Injected via app.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Artwork Inspection Modal -->
+  <div id="painting-modal" class="modal-overlay" onclick="closePaintingModal()">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <button class="modal-close-btn" onclick="closePaintingModal()">✕</button>
+      <div class="modal-img-stage">
+        <img id="modal-img" src="" alt="Artwork Full View">
+      </div>
+      <div class="modal-body">
+        <span id="modal-id-badge" class="painting-id" style="margin-bottom:0.5rem;">LAC-001</span>
+        <h3 id="modal-title" style="margin-bottom:0.25rem;">Landscape Rhythm</h3>
+        <p id="modal-period" style="font-size:0.875rem; color:var(--color-text-secondary); margin-bottom:1.5rem;">1985 • Formative Fluid Period</p>
+
+        <div style="display:grid; gap:0.85rem; font-size:0.875rem;">
+          <div><strong data-i18n="modal_custodian">Current Custodian:</strong> <span id="modal-meta-custodian">Custodian 1</span></div>
+          <div><strong data-i18n="modal_era">Era:</strong> <span id="modal-meta-era">1985 (民國74年)</span></div>
+          <div><strong data-i18n="modal_dimensions">Dimensions:</strong> <span id="modal-meta-dimensions">136 × 68 cm</span></div>
+          <div><strong data-i18n="modal_medium">Medium:</strong> <span id="modal-meta-medium">Ink on Xuan Paper</span></div>
+          <div><strong data-i18n="modal_mounting">Mounting Format:</strong> <span id="modal-meta-mounting">Hanging Scroll (立軸)</span></div>
+          <div><strong data-i18n="modal_seal">Seal:</strong> <span id="modal-meta-seal">Artist Relief Seal</span></div>
+          <div><strong data-i18n="modal_condition">Condition:</strong> <span id="modal-meta-condition">Excellent</span></div>
+        </div>
+
+        <div style="margin-top:2rem; padding-top:1.25rem; border-top:1px solid var(--color-parchment-border); display:flex; gap:0.75rem;">
+          <button class="btn btn-primary btn-sm" onclick="alert('In Proposal 2 & 3, this opens the high-resolution IIIF deep zoom inspector.')">IIIF Deep Zoom</button>
+          <button class="btn btn-outline btn-sm" onclick="alert('In Proposal 3, this exports the standard POP Joconde & CDWA museum manifest.')">Export Metadata</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-brand">
+        <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:1rem;">
+          <img src="logo_stamp.jpeg" alt="Logo" style="width:32px; height:32px; border-radius:4px;">
+          <span style="font-family:var(--font-serif); font-weight:800; font-size:1.1rem;">李安成 Lee An-cheng</span>
+        </div>
+        <p style="font-size:0.85rem; color:var(--color-text-muted); line-height:1.6;">
+          Dedicated to the digital preservation, academic cataloging, and international curation of modern Taiwanese ink wash master Lee An-cheng (1959–2015).
+        </p>
+      </div>
+
+      <div>
+        <h4 style="font-size:0.95rem; margin-bottom:1rem; color:#ffffff;">Platform Proposals</h4>
+        <ul style="list-style:none; font-size:0.85rem; line-height:2; color:var(--color-text-muted);">
+          <li><a href="#proposals" style="color:inherit; text-decoration:none;">Proposal 1: Digital Monograph</a></li>
+          <li><a href="#proposals" style="color:inherit; text-decoration:none;">Proposal 2: Dynamic Showcase CMS</a></li>
+          <li><a href="#proposals" style="color:inherit; text-decoration:none;">Proposal 3: Full Museum & CRM Suite</a></li>
+          <li><a href="#matrix" style="color:inherit; text-decoration:none;">Comparison Matrix</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="font-size:0.95rem; margin-bottom:1rem; color:#ffffff;">Curatorial Specs</h4>
+        <ul style="list-style:none; font-size:0.85rem; line-height:2; color:var(--color-text-muted);">
+          <li>Taiwan Cultural Memory Bank 2.0 (TMB)</li>
+          <li>France: POP Base Joconde</li>
+          <li>USA: Getty CDWA / VRA Core 4.0</li>
+          <li>Europe: LIDO 1.1 / Europeana EDM</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div>© 2026 Lee An-cheng Estate & Family Collection. All Rights Reserved.</div>
+      <div>Designed for International Exhibition Outreach (France, Europe, Taiwan, USA).</div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/paintings-data.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
